@@ -1,1 +1,1 @@
-# streaming_data_pipeline
+# Artificial Intelligence Diploma
