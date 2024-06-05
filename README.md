@@ -4,7 +4,7 @@ This repository provides exercises and projects for the Artificial Intelligence 
 
 ### Directories
 
-- `M1`: Contains notebooks with exercices on Python, data visualization, data analysis, and machine learning..
-- `M2`: 
+- `M1`: Contains notebooks with exercices on Python, data visualization, data analysis, and machine learning.
+- `M2`: Contains notebooks with Machine Learning exercices: Supervised, Unsupervised and Reinforcement Learning.
 - `M3`: 
 - `M4`: 
